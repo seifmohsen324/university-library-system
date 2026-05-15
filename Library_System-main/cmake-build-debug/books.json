@@ -1,0 +1,114 @@
+[
+    {
+        "author": "F. Scott Fitzgerald",
+        "genre": "Tragedy",
+        "isbn": "978-0743273565",
+        "publication_year": 1925,
+        "quantity": 7,
+        "title": "The Great Gatsby"
+    },
+    {
+        "author": "Jane Austen",
+        "genre": "Romance",
+        "isbn": "978-0141192475",
+        "publication_year": 1813,
+        "quantity": 7,
+        "title": "Pride and Prejudice"
+    },
+    {
+        "author": "Herman Melville",
+        "genre": "Adventure",
+        "isbn": "978-1503280786",
+        "publication_year": 1851,
+        "quantity": 8,
+        "title": "Moby-Dick"
+    },
+    {
+        "author": "Harper Lee",
+        "genre": "Southern Gothic",
+        "isbn": "978-0061120084",
+        "publication_year": 1960,
+        "quantity": 5,
+        "title": "To Kill a Mockingbird"
+    },
+    {
+        "author": "James Joyce",
+        "genre": "Modernist Fiction",
+        "isbn": "978-0199535675",
+        "publication_year": 1922,
+        "quantity": 9,
+        "title": "Ulysses"
+    },
+    {
+        "author": "Miguel de Cervantes",
+        "genre": "Novel",
+        "isbn": "978-0060934347",
+        "publication_year": 1605,
+        "quantity": 9,
+        "title": "Don Quixote"
+    },
+    {
+        "author": "Leo Tolstoy",
+        "genre": "Historical Fiction",
+        "isbn": "978-0199232765",
+        "publication_year": 1869,
+        "quantity": 7,
+        "title": "War and Peace"
+    },
+    {
+        "author": "J.D. Salinger",
+        "genre": "Coming-of-Age Fiction",
+        "isbn": "978-0316769488",
+        "publication_year": 1951,
+        "quantity": 4,
+        "title": "The Catcher in the Rye"
+    },
+    {
+        "author": "Charlotte Bronte",
+        "genre": "Gothic Fiction",
+        "isbn": "978-0141441146",
+        "publication_year": 1847,
+        "quantity": 11,
+        "title": "Jane Eyre"
+    },
+    {
+        "author": "Dante Alighieri",
+        "genre": "Epic Poetry",
+        "isbn": "978-0140448955",
+        "publication_year": 1320,
+        "quantity": 9,
+        "title": "The Divine Comedy"
+    },
+    {
+        "author": "Gabriel Garcia Marquez",
+        "genre": "Magical Realism",
+        "isbn": "978-0374528379",
+        "publication_year": 1967,
+        "quantity": 3,
+        "title": "One Hundred Years of Solitude"
+    },
+    {
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasy",
+        "isbn": "978-0547928210",
+        "publication_year": 1937,
+        "quantity": 3,
+        "title": "The Hobbit"
+    },
+    {
+        "author": "Homer",
+        "genre": "Epic Poetry",
+        "isbn": "978-0486282112",
+        "publication_year": 1999,
+        "quantity": 1,
+        "title": "The Odyssey"
+    },
+    {
+        "author": "Fyodor Dostoevsky",
+        "genre": "Philosophical Fiction",
+        "isbn": "978-0679405741",
+        "publication_year": 1866,
+        "quantity": 2,
+        "title": "Crime and Punishment"
+    }
+]

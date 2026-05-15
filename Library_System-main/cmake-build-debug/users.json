@@ -1,0 +1,44 @@
+[
+    {
+        "Fines": 0,
+        "ID": 22222,
+        "Name": "laila",
+        "Type": "Student"
+    },
+    {
+        "Fines": 0,
+        "ID": 33333,
+        "Name": "judy",
+        "Type": "Faculty"
+    },
+    {
+        "Fines": 0,
+        "ID": 44444,
+        "Name": "joumana",
+        "Type": "Staff"
+    },
+    {
+        "Fines": 0,
+        "ID": 55555,
+        "Name": "jana",
+        "Type": "Member"
+    },
+    {
+        "Fines": 1468,
+        "ID": 66666,
+        "Name": "salma",
+        "Type": "Student"
+    },
+    {
+        "Fines": 0,
+        "ID": 1234,
+        "Name": "ahmed",
+        "Type": "Staff"
+    },
+    {
+        "Fines": 0,
+        "ID": 11111,
+        "Name": "seif",
+        "Type": "Librarian"
+    }
+]
